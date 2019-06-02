@@ -1,0 +1,6 @@
+framework module GLCustomCamera {
+  umbrella header "GLCustomCamera-umbrella.h"
+
+  export *
+  module * { export * }
+}

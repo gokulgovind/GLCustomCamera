@@ -1,0 +1,22 @@
+{
+  "name": "GLCustomCamera",
+  "version": "0.1.0",
+  "summary": "A short description of GLCustomCamera.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gokulece26@gmail.com/GLCustomCamera",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gokulece26@gmail.com": "gokul.g@ndot.in"
+  },
+  "source": {
+    "git": "https://github.com/gokulece26@gmail.com/GLCustomCamera.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GLCustomCamera/Classes/**/*"
+}
